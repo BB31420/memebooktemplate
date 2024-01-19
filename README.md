@@ -1,4 +1,4 @@
-### Made with Gimp
+### Download and Open file with Gimp
 ```
 https://www.gimp.org/
 ```
